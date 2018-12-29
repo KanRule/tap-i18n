@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'tap:i18n',
+  name: 'wekan-tap-i18n',
   summary: 'A comprehensive internationalization solution for Meteor',
   version: '1.8.2',
-  git: 'https://github.com/TAPevents/tap-i18n'
+  git: 'https://github.com/wekan/tap-i18n'
 });
 
 both = ['server', 'client'];
